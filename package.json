@@ -1,0 +1,22 @@
+{
+  "name": "node",
+  "version": "1.0.0",
+  "description": "playing with node",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "devpro236",
+  "license": "MIT",
+  "dependencies": {
+    "cat-names": "^2.0.0",
+    "dog-names": "^1.0.2",
+    "nodemon": "^1.18.10",
+    "pokemon": "^1.2.3",
+    "superb": "^3.0.0",
+    "superheroes": "^2.0.0",
+    "supervillains": "^2.2.0",
+    "yes-no-words": "^1.4.0"
+  }
+}
