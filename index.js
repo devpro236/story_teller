@@ -15,5 +15,5 @@ const history = (a, b, c, d, e, f) => {
     `there was an hero name ${a} who had a cat name ${b} and a dog name ${c} one day while walking in the jungle he ran into an ${d} ${e} but infortunatly the situation wasn't perfect to admire ${e} because ${f} was here what would you do ? `
   );
 };
-let histor = history(heros, cat, dog, superbs, pokemons, villain);
-console.log(histor);
+let historyTeller = history(heros, cat, dog, superbs, pokemons, villain);
+console.log(historyTeller);
