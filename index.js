@@ -17,3 +17,6 @@ const history = (a, b, c, d, e, f) => {
 };
 let historyTeller = history(heros, cat, dog, superbs, pokemons, villain);
 console.log(historyTeller);
+
+let historyTeller1 = history(cat, heros, villain, superbs, pokemons, dog);
+console.log(historyTeller1);
